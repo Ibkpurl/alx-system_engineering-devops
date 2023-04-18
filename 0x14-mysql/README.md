@@ -1,7 +1,5 @@
 # 0x14-mysql
 
-## <p align="center">![alt text](https://github.com/Dikachis/alx-system_engineering-devops/blob/main/image_devops/0x14_MySQL.png?raw=true)</p>
-
 ## General Objectives
 - To know the main role of a database
 - To know what a database replica is
